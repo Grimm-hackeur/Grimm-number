@@ -1,5 +1,5 @@
 <h1 align="center">
-  GRIMM-MAIL TOOLKIT v2
+  GRIMM-MAIL TOOLKIT v1
 </h1>
 
 <p align="center">
