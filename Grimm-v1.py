@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import sys
 import time
@@ -140,4 +141,4 @@ def main_menu():
 # ========================
 if __name__ == "__main__":
     check_password()
-    main_menu(
+    main_menu()
